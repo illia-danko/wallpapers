@@ -1,6 +1,6 @@
-# Taken from https://gitlab.com/dwt1/wallpapers
+# Wallpapers Collection
 
-# Illia's Wallpaper Collection
+(Some images are taken from https://gitlab.com/dwt1/wallpapers)
 
 ## Where Did I Get These?
 
